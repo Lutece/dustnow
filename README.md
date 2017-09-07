@@ -1,8 +1,10 @@
-# The visualization library of fine-dust information built with angular4
+# The visualization library of fine-dust information
 
 ## Title
 
+
 ## Content
+
 
 ## Author
 - Baek Seong Hoon (Lutece)
